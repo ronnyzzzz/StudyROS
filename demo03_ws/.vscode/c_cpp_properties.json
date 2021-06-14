@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/src/plumbing_pub_sub/include/**",
+        "/usr/include/**",
+        "/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/devel/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
