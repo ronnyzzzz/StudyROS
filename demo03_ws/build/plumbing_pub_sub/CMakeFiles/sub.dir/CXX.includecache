@@ -6,7 +6,25 @@
 
 #IncludeRegexTransform: 
 
+/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/devel/include/plumbing_pub_sub/Person.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
 /home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/src/plumbing_pub_sub/src/sub.cpp
+plumbing_pub_sub/Person.h
+/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/src/plumbing_pub_sub/src/plumbing_pub_sub/Person.h
 ros/ros.h
 /home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/src/plumbing_pub_sub/src/ros/ros.h
 std_msgs/String.h

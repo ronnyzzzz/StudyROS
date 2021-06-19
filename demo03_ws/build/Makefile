@@ -661,6 +661,188 @@ std_msgs_generate_messages_py/fast:
 	$(MAKE) -f plumbing_pub_sub/CMakeFiles/std_msgs_generate_messages_py.dir/build.make plumbing_pub_sub/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
+#=============================================================================
+# Target rules for targets named plumbing_server_client_geneus
+
+# Build rule for target.
+plumbing_server_client_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_geneus
+.PHONY : plumbing_server_client_geneus
+
+# fast build rule for target.
+plumbing_server_client_geneus/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_geneus.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_geneus.dir/build
+.PHONY : plumbing_server_client_geneus/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages_eus
+
+# Build rule for target.
+plumbing_server_client_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages_eus
+.PHONY : plumbing_server_client_generate_messages_eus
+
+# fast build rule for target.
+plumbing_server_client_generate_messages_eus/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_eus.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_eus.dir/build
+.PHONY : plumbing_server_client_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_gencpp
+
+# Build rule for target.
+plumbing_server_client_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_gencpp
+.PHONY : plumbing_server_client_gencpp
+
+# fast build rule for target.
+plumbing_server_client_gencpp/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_gencpp.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_gencpp.dir/build
+.PHONY : plumbing_server_client_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages
+
+# Build rule for target.
+plumbing_server_client_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages
+.PHONY : plumbing_server_client_generate_messages
+
+# fast build rule for target.
+plumbing_server_client_generate_messages/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages.dir/build
+.PHONY : plumbing_server_client_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages_cpp
+
+# Build rule for target.
+plumbing_server_client_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages_cpp
+.PHONY : plumbing_server_client_generate_messages_cpp
+
+# fast build rule for target.
+plumbing_server_client_generate_messages_cpp/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_cpp.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_cpp.dir/build
+.PHONY : plumbing_server_client_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named _plumbing_server_client_generate_messages_check_deps_AddInts
+
+# Build rule for target.
+_plumbing_server_client_generate_messages_check_deps_AddInts: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _plumbing_server_client_generate_messages_check_deps_AddInts
+.PHONY : _plumbing_server_client_generate_messages_check_deps_AddInts
+
+# fast build rule for target.
+_plumbing_server_client_generate_messages_check_deps_AddInts/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/_plumbing_server_client_generate_messages_check_deps_AddInts.dir/build.make plumbing_server_client/CMakeFiles/_plumbing_server_client_generate_messages_check_deps_AddInts.dir/build
+.PHONY : _plumbing_server_client_generate_messages_check_deps_AddInts/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_gennodejs
+
+# Build rule for target.
+plumbing_server_client_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_gennodejs
+.PHONY : plumbing_server_client_gennodejs
+
+# fast build rule for target.
+plumbing_server_client_gennodejs/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_gennodejs.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_gennodejs.dir/build
+.PHONY : plumbing_server_client_gennodejs/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages_lisp
+
+# Build rule for target.
+plumbing_server_client_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages_lisp
+.PHONY : plumbing_server_client_generate_messages_lisp
+
+# fast build rule for target.
+plumbing_server_client_generate_messages_lisp/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_lisp.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_lisp.dir/build
+.PHONY : plumbing_server_client_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_genlisp
+
+# Build rule for target.
+plumbing_server_client_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_genlisp
+.PHONY : plumbing_server_client_genlisp
+
+# fast build rule for target.
+plumbing_server_client_genlisp/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_genlisp.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_genlisp.dir/build
+.PHONY : plumbing_server_client_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages_nodejs
+
+# Build rule for target.
+plumbing_server_client_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages_nodejs
+.PHONY : plumbing_server_client_generate_messages_nodejs
+
+# fast build rule for target.
+plumbing_server_client_generate_messages_nodejs/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_nodejs.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_nodejs.dir/build
+.PHONY : plumbing_server_client_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_generate_messages_py
+
+# Build rule for target.
+plumbing_server_client_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_generate_messages_py
+.PHONY : plumbing_server_client_generate_messages_py
+
+# fast build rule for target.
+plumbing_server_client_generate_messages_py/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_py.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_generate_messages_py.dir/build
+.PHONY : plumbing_server_client_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named plumbing_server_client_genpy
+
+# Build rule for target.
+plumbing_server_client_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 plumbing_server_client_genpy
+.PHONY : plumbing_server_client_genpy
+
+# fast build rule for target.
+plumbing_server_client_genpy/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/plumbing_server_client_genpy.dir/build.make plumbing_server_client/CMakeFiles/plumbing_server_client_genpy.dir/build
+.PHONY : plumbing_server_client_genpy/fast
+
+#=============================================================================
+# Target rules for targets named client
+
+# Build rule for target.
+client: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 client
+.PHONY : client
+
+# fast build rule for target.
+client/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/client.dir/build.make plumbing_server_client/CMakeFiles/client.dir/build
+.PHONY : client/fast
+
+#=============================================================================
+# Target rules for targets named server
+
+# Build rule for target.
+server: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 server
+.PHONY : server
+
+# fast build rule for target.
+server/fast:
+	$(MAKE) -f plumbing_server_client/CMakeFiles/server.dir/build.make plumbing_server_client/CMakeFiles/server.dir/build
+.PHONY : server/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -712,6 +894,20 @@ help:
 	@echo "... std_msgs_generate_messages_nodejs"
 	@echo "... roscpp_generate_messages_nodejs"
 	@echo "... std_msgs_generate_messages_py"
+	@echo "... plumbing_server_client_geneus"
+	@echo "... plumbing_server_client_generate_messages_eus"
+	@echo "... plumbing_server_client_gencpp"
+	@echo "... plumbing_server_client_generate_messages"
+	@echo "... plumbing_server_client_generate_messages_cpp"
+	@echo "... _plumbing_server_client_generate_messages_check_deps_AddInts"
+	@echo "... plumbing_server_client_gennodejs"
+	@echo "... plumbing_server_client_generate_messages_lisp"
+	@echo "... plumbing_server_client_genlisp"
+	@echo "... plumbing_server_client_generate_messages_nodejs"
+	@echo "... plumbing_server_client_generate_messages_py"
+	@echo "... plumbing_server_client_genpy"
+	@echo "... client"
+	@echo "... server"
 .PHONY : help
 
 
