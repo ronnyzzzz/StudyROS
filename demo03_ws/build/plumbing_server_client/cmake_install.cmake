@@ -92,3 +92,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/plumbing_server_client" TYPE PROGRAM FILES "/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/build/plumbing_server_client/catkin_generated/installspace/server2.py")
 endif()
 
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/plumbing_server_client" TYPE PROGRAM FILES "/home/ronnyz/Documents/ROS/ROS-demo/demo03_ws/build/plumbing_server_client/catkin_generated/installspace/client2.py")
+endif()
+
